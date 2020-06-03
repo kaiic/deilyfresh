@@ -1,0 +1,30 @@
+在虚拟机中：
+1.fastdfs：
+        在 /etc/fdfs/storage.conf配置文件中，修改tracker_server = 虚拟机的ip地址:22122
+        在 /etc/fdfs/client.conf配置文件中，修改tracker_server = 虚拟机的ip地址:22122
+
+        在 /etc/fdfs/中终端运行启动tracker和storage：
+            sudo service fdfs_trackerd start
+            sudo service fdfs_storaged start
+
+        上传文件：
+        在 /etc/fdfs/中终端运行：
+            fdfs_upload_file /etc/fdfs/client.conf 要上传的图片文件
+
+2.先挂载Windows文件夹：
+    //IP地址是windows地址，后面跟上windows上的共享目录，后面的路径是linux上的挂载路径
+    //sudo mount -t cifs -o username=Everyone //192.168.199.123/win  /home/sk/win
+    sudo mount -t cifs -o username=Everyone //192.168.0.149/Django_celery '/home/kaiic/桌面/Py'
+
+3.nginx：
+        在 /etc/fdfs/mod_fastdfs.conf配置文件中，修改tracker_server = 虚拟机的ip地址:22122
+        启动nginx：
+            在 /usr/local/nginx下：终端打开执行 sudo sbin/nginx
+
+
+在setting中修改FDFS_URL的虚拟机ip
+
+
+celery -A celery_tasks.tasks worker -l info -P eventlet
+
+celery -A celery_tasks.tasks worker -l info --pool=solo

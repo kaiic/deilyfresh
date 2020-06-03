@@ -1,0 +1,807 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:02:10 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:54791 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Set PythonHome to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x0000000800018040 (most recent call first):
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:08:02 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:54882 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Set PythonHome to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x0000000800018040 (most recent call first):
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:13:50 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:55008 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Set PythonHome to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x0000000800018040 (most recent call first):
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:15:35 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:55023 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Set PythonHome to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x0000000800000010 (most recent call first):
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:25:38 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:55438 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Set PythonHome to /cygdrive/e/Pycharm
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x0000000800018040 (most recent call first):
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:30:21 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:55639 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c230
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "dailyfresh/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+ModuleNotFoundError: No module named 'django'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2350)
+spawned uWSGI worker 1 (pid: 2351, cores: 2)
+spawned uWSGI worker 2 (pid: 2352, cores: 2)
+spawned uWSGI worker 3 (pid: 2353, cores: 2)
+spawned uWSGI worker 4 (pid: 2354, cores: 2)
+spawned uWSGI http 1 (pid: 2355)
+--- no python application found, check your startup logs for errors ---
+[pid: 2351|app: -1|req: -1/1] 127.0.0.1 () {46 vars in 910 bytes} [Mon May 11 03:30:55 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 2354|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 801 bytes} [Mon May 11 03:30:56 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 2353|app: -1|req: -1/3] 127.0.0.1 () {44 vars in 869 bytes} [Mon May 11 03:31:29 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 2353|app: -1|req: -1/4] 127.0.0.1 () {42 vars in 796 bytes} [Mon May 11 03:31:30 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 2355)
+worker 1 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:36:49 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:55875 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c230
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "dailyfresh/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+ModuleNotFoundError: No module named 'django'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2366)
+spawned uWSGI worker 1 (pid: 2367, cores: 2)
+spawned uWSGI worker 2 (pid: 2368, cores: 2)
+spawned uWSGI worker 3 (pid: 2369, cores: 2)
+spawned uWSGI worker 4 (pid: 2370, cores: 2)
+spawned uWSGI http 1 (pid: 2371)
+--- no python application found, check your startup logs for errors ---
+[pid: 2370|app: -1|req: -1/1] 127.0.0.1 () {44 vars in 879 bytes} [Mon May 11 03:37:30 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 2369|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 801 bytes} [Mon May 11 03:37:30 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 2371)
+worker 1 buried after 0 seconds
+worker 3 buried after 0 seconds
+worker 4 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:39:26 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:55923 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009a8d0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "dailyfresh/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+ModuleNotFoundError: No module named 'django'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2380)
+spawned uWSGI worker 1 (pid: 2381, cores: 2)
+spawned uWSGI worker 2 (pid: 2382, cores: 2)
+spawned uWSGI worker 3 (pid: 2383, cores: 2)
+spawned uWSGI worker 4 (pid: 2384, cores: 2)
+spawned uWSGI http 1 (pid: 2385)
+--- no python application found, check your startup logs for errors ---
+[pid: 2384|app: -1|req: -1/1] 127.0.0.1 () {46 vars in 910 bytes} [Mon May 11 03:39:40 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 2381|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 801 bytes} [Mon May 11 03:39:40 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 2385)
+worker 1 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:43:15 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:56026 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c1e0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "./dailyfresh/__init__.py", line 1, in <module>
+    import pymysql
+ModuleNotFoundError: No module named 'pymysql'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+Traceback (most recent call last):
+  File "dailyfresh/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+ModuleNotFoundError: No module named 'django'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2393)
+spawned uWSGI worker 1 (pid: 2394, cores: 2)
+spawned uWSGI worker 2 (pid: 2395, cores: 2)
+spawned uWSGI worker 3 (pid: 2396, cores: 2)
+spawned uWSGI worker 4 (pid: 2397, cores: 2)
+spawned uWSGI http 1 (pid: 2398)
+--- no python application found, check your startup logs for errors ---
+[pid: 2394|app: -1|req: -1/1] 127.0.0.1 () {46 vars in 910 bytes} [Mon May 11 03:43:20 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 2397|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 801 bytes} [Mon May 11 03:43:20 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 2398)
+worker 1 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:45:25 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:56061 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c1e0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "./dailyfresh/__init__.py", line 1, in <module>
+    import pymysql
+ModuleNotFoundError: No module named 'pymysql'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+failed to open python file dailyfresh/uwsgi.ini
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2403)
+spawned uWSGI worker 1 (pid: 2404, cores: 2)
+spawned uWSGI worker 2 (pid: 2405, cores: 2)
+spawned uWSGI worker 3 (pid: 2406, cores: 2)
+spawned uWSGI worker 4 (pid: 2407, cores: 2)
+spawned uWSGI http 1 (pid: 2408)
+--- no python application found, check your startup logs for errors ---
+[pid: 2406|app: -1|req: -1/1] 127.0.0.1 () {46 vars in 909 bytes} [Mon May 11 03:45:29 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 2407|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 800 bytes} [Mon May 11 03:45:29 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 2408)
+worker 1 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 03:55:17 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8080).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 13:28:39 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /e/Pycharm/pysrc/Django/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 13:35:46 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /e/Pycharm/pysrc/Django/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 13:36:01 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /Pycharm/pysrc/Django/dailyfresh
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 13:36:32 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:52505 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c290
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "dailyfresh/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+ModuleNotFoundError: No module named 'django'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1168)
+spawned uWSGI worker 1 (pid: 1170, cores: 2)
+spawned uWSGI worker 2 (pid: 1171, cores: 2)
+spawned uWSGI worker 3 (pid: 1172, cores: 2)
+spawned uWSGI worker 4 (pid: 1173, cores: 2)
+spawned uWSGI http 1 (pid: 1174)
+--- no python application found, check your startup logs for errors ---
+[pid: 1171|app: -1|req: -1/1] 127.0.0.1 () {46 vars in 910 bytes} [Mon May 11 13:36:39 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 1171|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 801 bytes} [Mon May 11 13:36:40 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 1174)
+worker 1 buried after 2 seconds
+worker 4 buried after 2 seconds
+worker 3 buried after 2 seconds
+worker 2 buried after 2 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 13:38:54 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:52584 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c290
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "./dailyfresh/__init__.py", line 1, in <module>
+    import pymysql
+ModuleNotFoundError: No module named 'pymysql'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 611)
+spawned uWSGI worker 1 (pid: 612, cores: 2)
+spawned uWSGI worker 2 (pid: 613, cores: 2)
+spawned uWSGI worker 3 (pid: 614, cores: 2)
+spawned uWSGI worker 4 (pid: 615, cores: 2)
+spawned uWSGI http 1 (pid: 616)
+--- no python application found, check your startup logs for errors ---
+[pid: 614|app: -1|req: -1/1] 127.0.0.1 () {46 vars in 910 bytes} [Mon May 11 13:39:07 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 612|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 801 bytes} [Mon May 11 13:39:07 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 614|app: -1|req: -1/3] 127.0.0.1 () {46 vars in 910 bytes} [Mon May 11 13:39:10 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 612|app: -1|req: -1/4] 127.0.0.1 () {42 vars in 801 bytes} [Mon May 11 13:39:11 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 616)
+worker 1 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 13:48:45 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:52795 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c290
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "./dailyfresh/__init__.py", line 1, in <module>
+    import pymysql
+ModuleNotFoundError: No module named 'pymysql'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1661)
+spawned uWSGI worker 1 (pid: 1662, cores: 2)
+spawned uWSGI worker 2 (pid: 1663, cores: 2)
+spawned uWSGI worker 3 (pid: 1664, cores: 2)
+spawned uWSGI worker 4 (pid: 1665, cores: 2)
+spawned uWSGI http 1 (pid: 1666)
+Python auto-reloader enabled
+--- no python application found, check your startup logs for errors ---
+[pid: 1663|app: -1|req: -1/1] 127.0.0.1 () {46 vars in 910 bytes} [Mon May 11 13:48:50 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 1663|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 801 bytes} [Mon May 11 13:48:51 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 1666)
+worker 1 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 13:52:41 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8080 fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c210
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "dailyfresh/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+ModuleNotFoundError: No module named 'django'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1405)
+spawned uWSGI worker 1 (pid: 1406, cores: 2)
+spawned uWSGI worker 2 (pid: 1407, cores: 2)
+spawned uWSGI worker 3 (pid: 1408, cores: 2)
+spawned uWSGI worker 4 (pid: 1409, cores: 2)
+*** Stats server enabled on 127.0.0.1:9191 fd: 14 ***
+Python auto-reloader enabled
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 13:54:40 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 3
+probably another instance of uWSGI is running on the same address (127.0.0.1:8080).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 13:54:55 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:52970 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c290
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "dailyfresh/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+ModuleNotFoundError: No module named 'django'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1289)
+spawned uWSGI worker 1 (pid: 1290, cores: 2)
+spawned uWSGI worker 2 (pid: 1291, cores: 2)
+spawned uWSGI worker 3 (pid: 1292, cores: 2)
+spawned uWSGI worker 4 (pid: 1293, cores: 2)
+spawned uWSGI http 1 (pid: 1294)
+Python auto-reloader enabled
+--- no python application found, check your startup logs for errors ---
+[pid: 1290|app: -1|req: -1/1] 127.0.0.1 () {46 vars in 910 bytes} [Mon May 11 13:55:08 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 1291|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 801 bytes} [Mon May 11 13:55:09 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 1294)
+worker 1 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 14:17:57 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:53507 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c240
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "./dailyfresh/__init__.py", line 1, in <module>
+    import pymysql
+ModuleNotFoundError: No module named 'pymysql'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1049)
+spawned uWSGI worker 1 (pid: 1050, cores: 2)
+spawned uWSGI worker 2 (pid: 1051, cores: 2)
+spawned uWSGI worker 3 (pid: 1052, cores: 2)
+spawned uWSGI worker 4 (pid: 1053, cores: 2)
+spawned uWSGI http 1 (pid: 1054)
+Python auto-reloader enabled
+--- no python application found, check your startup logs for errors ---
+[pid: 1050|app: -1|req: -1/1] 127.0.0.1 () {46 vars in 902 bytes} [Mon May 11 14:18:15 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 1051|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 800 bytes} [Mon May 11 14:18:16 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 1054)
+worker 1 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 11 14:23:43 2020] ***
+compiled with version: 9.3.0 on 10 May 2020 18:46:57
+os: CYGWIN_NT-10.0-18362-3.1.4-340.x86_64 2020-02-19 08:49 UTC
+nodename: DESKTOP-HUFR05S
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /usr/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /cygdrive/e/Pycharm/pysrc/Django/dailyfresh
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: windows mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:53649 (port auto-assigned) fd 3
+Python version: 3.6.9 (default, Jul 21 2019, 14:33:59)  [GCC 7.4.0]
+Python main interpreter initialized at 0x80009c2e0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+Traceback (most recent call last):
+  File "./dailyfresh/__init__.py", line 1, in <module>
+    import pymysql
+ModuleNotFoundError: No module named 'pymysql'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1450)
+spawned uWSGI worker 1 (pid: 1451, cores: 2)
+spawned uWSGI worker 2 (pid: 1452, cores: 2)
+spawned uWSGI worker 3 (pid: 1453, cores: 2)
+spawned uWSGI worker 4 (pid: 1454, cores: 2)
+spawned uWSGI http 1 (pid: 1455)
+--- no python application found, check your startup logs for errors ---
+[pid: 1454|app: -1|req: -1/1] 127.0.0.1 () {46 vars in 910 bytes} [Mon May 11 14:23:50 2020] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 1452|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 801 bytes} [Mon May 11 14:23:50 2020] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 1455)
+worker 1 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
