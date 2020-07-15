@@ -18,15 +18,15 @@
 
 ##### 首页：
 
-![](C:\Users\ASUS\Desktop\git\登陆.PNG)
+![](./登陆.PNG)
 
 #### 首页：
 
-![](C:\Users\ASUS\Desktop\git\首页.PNG)
+![](./首页.PNG)
 
 #### 我的订单：
 
-![](C:\Users\ASUS\Desktop\git\我的订单.PNG)
+![](./我的订单.PNG)
 
 
 
